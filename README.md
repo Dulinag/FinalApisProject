@@ -31,7 +31,7 @@ The API can be tested using an HTTP client, such as Postman
     
     <li>Delete Patient by Id -> /api/patient/id</li>
     
-    <li>Get Appointment -> /api/Appointment</li>
+    <li>Get Appointment -> /api/Appointment/id</li>
   </ul>
 
 <h1>Sample Request Body:</h1>
