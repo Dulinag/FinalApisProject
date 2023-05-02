@@ -64,15 +64,15 @@ The API can be tested using an HTTP client, such as Postman
 
 
 <h1>Sample Request Body for POST /Patient Endpoint:</h1>
+{
+    "patientId": 7,
+    "name": "Greg",
+    "age": 40,
+    "gender": "Male",
+    "email": "jane.doe@email.com",
+    "phoneNumber": "555-5678"
+}
 
- {
-        "patientId": 7,
-        "name": "Greg",
-        "age": 40,
-        "gender": "Male",
-        "email": "jane.doe@email.com",
-        "phoneNumber": "555-5678"
-    }
 
 <h1>Sample Response Body for GET /Appointment Endpoint:</h1>
 
