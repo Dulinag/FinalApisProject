@@ -14,8 +14,14 @@ The API can be tested using an HTTP client, such as Postman
   <li>Get Appointment -> /api/Appointment</li>
   </ul>
   
-  ![image](https://user-images.githubusercontent.com/83606238/235563147-1b11cec6-208c-4200-8257-f50fcddcfd0c.png)
-<h2>POST:</h2>                                                                                                                                                         <ul>
+![image](https://user-images.githubusercontent.com/83606238/235563147-1b11cec6-208c-4200-8257-f50fcddcfd0c.png)
+
+![image](https://user-images.githubusercontent.com/83606238/235563714-a4524381-92ef-4660-953c-4734274da850.png)
+
+![image](https://user-images.githubusercontent.com/83606238/235563824-644a1f2b-1144-48ff-bc71-4ab0c2afe3e1.png)
+
+<h2>POST:</h2> 
+<ul>
   <li>Create Doctor -> /api/doctor</li>
   
   <li>Create Patient -> /api/patient</li>
