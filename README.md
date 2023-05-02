@@ -33,6 +33,12 @@ The API can be tested using an HTTP client, such as Postman
 
 ![image](https://user-images.githubusercontent.com/83606238/235563353-956cef3e-6197-4005-858a-ea1bb5a6ef88.png)
 
+![image](https://user-images.githubusercontent.com/83606238/235565432-7c5e9b8e-d8d6-453a-9527-62e9e36c0db3.png)
+
+![image](https://user-images.githubusercontent.com/83606238/235565955-2bc4fe27-891f-405e-b75f-b90400099318.png)
+
+
+
 
 
   <h2>DELETE:</h2>  
@@ -50,23 +56,16 @@ The API can be tested using an HTTP client, such as Postman
   ![image](https://user-images.githubusercontent.com/83606238/235563613-3f3c467e-fc15-4eca-b330-146792a6c4b0.png)
 
 
-<h1>Sample Request Body:</h1>
- <h2>Post:</h2>
-  {
-  {"appointmentId":4,
-  "date":"2023-04-27T00:00:00",
-  "startTime":"10:00:00",
-  "endTime":"10:30:00",
-  "doctorId":1,
-  "patientId":1,
-  "doctor":null,
-  "patient":null}]
+  <h2>PUT:</h2> 
+  
+  ![image](https://user-images.githubusercontent.com/83606238/235565630-89f42ed9-4881-4230-89e1-3861e3a96d1d.png)
+  ![image](https://user-images.githubusercontent.com/83606238/235565825-2cd8a189-e476-4483-a825-16e11c274eae.png)
 
+
+
+<h1>Sample Request Body:</h1>
+
+see above for Postman
 <h1>Sample Response Body:</h1>
-  <h2>201 created</h2>
-    {"patientId":1,
-    "name":"Jane Doe",
-    "age":35,"
-    gender":"Female",
-  "email":"jane.doe@email.com",
-  "phoneNumber":"555-5678"}
+see above for Postman
+
