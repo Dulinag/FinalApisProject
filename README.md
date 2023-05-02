@@ -63,9 +63,26 @@ The API can be tested using an HTTP client, such as Postman
 
 
 
-<h1>Sample Request Body:</h1>
+<h1>Sample Request Body for POST /Patient Endpoint:</h1>
 
-see above for Postman
-<h1>Sample Response Body:</h1>
-see above for Postman
+ {
+        "patientId": 7,
+        "name": "Greg",
+        "age": 40,
+        "gender": "Male",
+        "email": "jane.doe@email.com",
+        "phoneNumber": "555-5678"
+    }
+<h1>Sample Response Body for GET /Appointment Endpoint:</h1>
+
+    {
+        "appointmentId": 1,
+        "date": "2023-05-10T00:00:00",
+        "startTime": "10:00:00",
+        "endTime": "10:30:00",
+        "doctorId": 1,
+        "patientId": 1,
+        "doctor": null,
+        "patient": null
+    }
 
