@@ -22,6 +22,9 @@ The API can be tested using an HTTP client, such as Postman
   
 </ul>
 
+![image](https://user-images.githubusercontent.com/83606238/235563147-1b11cec6-208c-4200-8257-f50fcddcfd0c.png)
+
+
   <h2>DELETE:</h2>  
   
   
