@@ -13,6 +13,8 @@ The API can be tested using an HTTP client, such as Postman
   <li>Get Patient -> /api/patient</li>
   <li>Get Appointment -> /api/Appointment</li>
   </ul>
+  
+  ![image](https://user-images.githubusercontent.com/83606238/235563147-1b11cec6-208c-4200-8257-f50fcddcfd0c.png)
 <h2>POST:</h2>                                                                                                                                                         <ul>
   <li>Create Doctor -> /api/doctor</li>
   
@@ -22,7 +24,9 @@ The API can be tested using an HTTP client, such as Postman
   
 </ul>
 
-![image](https://user-images.githubusercontent.com/83606238/235563147-1b11cec6-208c-4200-8257-f50fcddcfd0c.png)
+
+![image](https://user-images.githubusercontent.com/83606238/235563353-956cef3e-6197-4005-858a-ea1bb5a6ef88.png)
+
 
 
   <h2>DELETE:</h2>  
@@ -36,6 +40,9 @@ The API can be tested using an HTTP client, such as Postman
     
     <li>Get Appointment -> /api/Appointment/id</li>
   </ul>
+  
+  ![image](https://user-images.githubusercontent.com/83606238/235563613-3f3c467e-fc15-4eca-b330-146792a6c4b0.png)
+
 
 <h1>Sample Request Body:</h1>
  <h2>Post:</h2>
